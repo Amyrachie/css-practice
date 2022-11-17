@@ -1,0 +1,40 @@
+.first-section {
+    color: green;
+    margin-top: 15px;
+}
+b, i {
+    font-size: 14px;
+}
+#name {
+      box-shadow: 0 4px 15px rgba(4 , 60, 119, 0.2111);
+      padding: 30px;
+}
+h1,h2 {
+    text-align: center;
+}
+.second-section {
+    color: red;
+    margin-top: 15px;
+}
+
+table {
+    width: 600px;
+    box-shadow: -1px 12px 12px -6px rgba(0,0,,0,0.5);
+}
+table, td, th {
+    padding: 20px;
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    text-align: center;
+    cursor: pointer;
+    color: blue;
+    margin: 0 auto;
+}
+td {
+    font-size: 18px;
+}
+
+.third-section {
+    color: blue;
+    margin-top: 15px;
+}
